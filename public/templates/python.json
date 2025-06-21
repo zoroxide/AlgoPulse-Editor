@@ -1,0 +1,9 @@
+{
+  "value": "python",
+  "label": "Python",
+  "judge0Id": 71,
+  "description": "Python 3 interpreter",
+  "defaultCode": "# Hello World in Python\nprint(\"Hello, World!\")",
+  "exampleInput": "",
+  "exampleOutput": "Hello, World!"
+}

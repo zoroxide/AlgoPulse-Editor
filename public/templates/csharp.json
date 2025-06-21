@@ -1,0 +1,9 @@
+{
+  "value": "csharp",
+  "label": "C#",
+  "judge0Id": 51,
+  "description": "Mono C# compiler",
+  "defaultCode": "// Hello World in C#\nusing System;\n\nclass Program \n{\n    static void Main() \n    {\n        Console.WriteLine(\"Hello, World!\");\n    }\n}",
+  "exampleInput": "",
+  "exampleOutput": "Hello, World!"
+}

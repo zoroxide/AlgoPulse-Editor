@@ -1,0 +1,9 @@
+{
+  "value": "javascript",
+  "label": "JavaScript (Node.js)",
+  "judge0Id": 63,
+  "description": "JavaScript runtime with Node.js",
+  "defaultCode": "// Hello World in JavaScript\nconsole.log(\"Hello, World!\");",
+  "exampleInput": "",
+  "exampleOutput": "Hello, World!"
+}

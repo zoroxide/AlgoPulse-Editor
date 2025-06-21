@@ -1,0 +1,9 @@
+{
+  "value": "java",
+  "label": "Java",
+  "judge0Id": 62,
+  "description": "Java SE Development Kit",
+  "defaultCode": "// Hello World in Java\npublic class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}",
+  "exampleInput": "",
+  "exampleOutput": "Hello, World!"
+}

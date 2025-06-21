@@ -1,0 +1,9 @@
+{
+  "value": "go",
+  "label": "Go",
+  "judge0Id": 60,
+  "description": "Go programming language",
+  "defaultCode": "// Hello World in Go\npackage main\n\nimport \"fmt\"\n\nfunc main() {\n    fmt.Println(\"Hello, World!\")\n}",
+  "exampleInput": "",
+  "exampleOutput": "Hello, World!"
+}
